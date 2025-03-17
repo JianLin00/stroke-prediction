@@ -1,20 +1,20 @@
-🧠 Brain Stroke Prediction using Machine Learning
+# 🧠 Brain Stroke Prediction using Machine Learning
 
-📌 Overview
+# 📌 Overview
 
 This project focuses on predicting the risk of stroke using machine learning models. The study follows the CRISP-DM methodology to analyze stroke-related factors and build predictive models. The dataset includes medical and lifestyle attributes to enhance predictive accuracy.
 
-👥 Group Members
+# 👥 Group Members
 
 CHUA SZE YAN, TEO KAI NING, TAN JIAN LIN, VETRI A/L THANABALAN, LI YUE XIN
 
-📂 Dataset
+# 📂 Dataset
 
 Source: [Public stroke dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
 Features: Age, gender, hypertension, heart disease, avg glucose level, BMI, smoking status, etc.
 
-📊 Methodology (CRISP-DM)
+# 📊 Methodology (CRISP-DM)
 
 1. Business Understanding - Understanding stroke risk factors and prediction feasibility.
 
@@ -32,7 +32,7 @@ Features: Age, gender, hypertension, heart disease, avg glucose level, BMI, smok
 
 8. Deployment - Making the model accessible for predictions.
 
-🛠️ Machine Learning Models
+# 🛠️ Machine Learning Models
 
 - Algorithms: Random Forest, Naïve Bayes, KNN, SVM
 
@@ -40,13 +40,13 @@ Features: Age, gender, hypertension, heart disease, avg glucose level, BMI, smok
 
 - Best Model: SVM Model
 
-📊 Results & Visualization
+# 📊 Results & Visualization
 
 - Visualizing feature importance, confusion matrices, and model performance.
 
 - Insights on key risk factors for stroke.
 
-📜 Conclusion
+# 📜 Conclusion
 
 This project successfully predicts stroke risk using machine learning models. The results can help in early intervention and healthcare decision-making. Future improvements include:
 
